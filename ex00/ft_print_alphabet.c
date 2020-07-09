@@ -20,9 +20,3 @@ void	ft_print_alphabet(void)
 	ft_putchar('\n');
 	
 }
-
-int	main(void)
-{
-	ft_print_alphabet();
-	return(0);
-}
